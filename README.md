@@ -1,3 +1,3 @@
 ## Calculadora de Soma 
 
-### Programa teste para aplicação do estudo sobre Orientação a Objetos
+Programa realizado para estudo de Orientação a Objetos utilizando a linguagem Java.
